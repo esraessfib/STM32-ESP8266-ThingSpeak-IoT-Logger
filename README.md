@@ -13,3 +13,4 @@ The core functionality includes:
 *Response handling with timeout management
 
 *Error reporting and debugging capabilities
+![Screenshot](./clouds.png)
